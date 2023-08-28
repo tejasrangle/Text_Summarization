@@ -2,6 +2,8 @@
 # Project Overview:
 Welcome to the Text Summarization Application! This project focuses on creating an efficient and user-friendly application that automatically generates concise and coherent summaries of input text. Whether you're dealing with lengthy articles, research papers, or any other type of content, this application will help you extract the most important information with ease.
 
+## Demo
+[Text Summarization](https://github.com/tejasrangle/Text_Summarization/assets/110970662/4c0eaf0e-d46b-411d-82d0-5d891b37329c)
 
 
 ## Installation and Setup
